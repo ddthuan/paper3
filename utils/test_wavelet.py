@@ -1,3 +1,6 @@
+# https://sudonull.com/post/28628-Wavelet-Analysis-Part-1
+# https://sudonull.com/post/28178-Wavelet-analysis-Part-2
+
 from libcore import *
 
 w=pywt.Wavelet('bior2.2')
