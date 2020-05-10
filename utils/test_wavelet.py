@@ -26,6 +26,22 @@ class CConv(nn.Module):
         self.conv = nn.Conv2d(1,4, kernel_size=kernel_size, stride=(2,2), padding=(1,1), bias=False)
     
     def forward(self, x):
+      
+      
+w1=pywt.ContinuousWavelet('cmor1.5-1.0')
+lp_c = w1.wavefun()[1]
+real_c = np.real(w1.wavefun()[0])
+imag_c = np.imag(w1.wavefun()[0])
+
+plt.plot(lp_c)
+plt.show()
+
+plt.plot(real_c)
+plt.show()
+
+plt.plot(imag_c)
+plt.show()
+
         
         filters = torch.stack([
                 self.real[None] * self.real[:,None],
