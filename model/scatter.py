@@ -104,9 +104,3 @@ class Scatt_TwoOrder(nn.Module):
         print('S2 :', s2.shape)
         
         return s2
-
-x = torch.randn(1,1,32,32)
-m = Scatt_TwoOrder(8)
-y = m(x)
-#conv = nn.Conv2d(9,72,3,stride=(1,1), padding=(1,1), groups=9)
-#print('weight: ', conv.weight.shape)
