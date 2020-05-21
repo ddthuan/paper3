@@ -1,7 +1,8 @@
+import torch
 import numpy as np
 from matplotlib import pyplot as plt
 
-def plot_filters_single_channel(t):
+def plot_filters_single_channel(t, name):
     
     #kernels depth * number of kernels
     nplots = t.shape[0]*t.shape[1]
@@ -29,28 +30,35 @@ def plot_filters_single_channel(t):
             ax1.set_yticklabels([])
    
     plt.tight_layout()
+    plt.savefig(name)
     plt.show()
     
-from model import Scatt_OneOrder
+from model_test import Scatt_OneOrder, Scatt_TwoOrder
 
 model = Scatt_OneOrder(8,1,2)
+#model = Scatt_TwoOrder(8,1,[2,2])
 model.to("cuda:0")
 model_name = model.__class__.__name__
 
-#0k, no eps
-#PATH = './model/Scatt_OneOrder_cifar10_level1_Smooth_best.pth'
+#Ok, random
+PATH_random = './model/Scatt_OneOrder_random_level1_Smooth_epsConstant.pth'
 
-#Ok
-PATH = './model/Scatt_OneOrder_random_level1_Smooth_epsConstant.pth'
+#0k, no eps, cifar10
+PATH_cifar = './model/Scatt_OneOrder_cifar10_level1_Smooth_best.pth'
 
+#Ok, tiny restnet
+PATH_restnet = './model/Scatt_OneOrder_restnet_level1_Smooth.pth'
 
-
-# Load pre-traing model
-model.load_state_dict(torch.load(PATH))
-model.eval()
- 
-plot_filters_single_channel(model.phi.weight.detach().cpu())
-plot_filters_single_channel(model.psi_real.weight.detach().cpu())
-plot_filters_single_channel(model.psi_imag.weight.detach().cpu())
+names = ['random', 'cifar', 'restnet']
+paths = [PATH_random, PATH_cifar, PATH_restnet]
+for NAME, PATH in zip(names, paths):
     
     
+    # Load pre-traing model
+    model.load_state_dict(torch.load(PATH))
+    model.eval()
+    
+    plot_filters_single_channel(model.phi.weight.detach().cpu(), "plot/{}_phi".format(NAME))
+    plot_filters_single_channel(model.psi_real.weight.detach().cpu(), "plot/{}_psi_real".format(NAME))
+    plot_filters_single_channel(model.psi_imag.weight.detach().cpu(), "plot/{}_psi_imag".format(NAME))
+
