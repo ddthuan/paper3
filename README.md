@@ -8,7 +8,7 @@ benkmask Dynamic_WCNN
 <img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_imag.png" /></br>
 
-<h2>Random Dataset</h2>
+<h2>CIFAR10 Dataset</h2>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/cifar_phi.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/cifar_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/cifar_psi_imag.png" /></br>
