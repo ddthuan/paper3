@@ -19,11 +19,11 @@ Dynamic_WCNN benchmask
 <img src="https://github.com/ddthuan/paper3/blob/master/image/restnet_psi_imag.png" /></br>
 
 <h2>Tiny Imagenet (Order 2, Smooth)</h2>
-<a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order2_imagenet_smooth_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_phi.png" /></br>
+<a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order2_imagenet_smooth_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_phi.png" /></a></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_psi_imag.png" /></br>
 
 <h2>Tiny Imagenet (Order 2 -NoneSmooth)</h2>
-<a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order2_imagenet_nonesmooth_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_phi.png" /></br>
+<a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order2_imagenet_nonesmooth_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_phi.png" /></a></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_psi_imag.png" /></br>
