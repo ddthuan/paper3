@@ -18,7 +18,7 @@ Dynamic_WCNN benchmask
 <img src="https://github.com/ddthuan/paper3/blob/master/image/restnet_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/restnet_psi_imag.png" /></br>
 
-<h2>Tiny Imagenet (Order 2)</h2>
+<h2>Tiny Imagenet (Order 2, Smooth)</h2>
 <a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order2_imagenet_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_phi.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenet_psi_imag.png" /></br>
