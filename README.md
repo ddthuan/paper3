@@ -1,5 +1,5 @@
 # paper3
-<h2>Build the noise, noise, deformation stable filter groups based on the reverse engineering with scattering transforms</h2>
+<h2>Build the noise, noise, deformation stable filter group based on the reverse engineering with scattering transforms</h2>
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQx2u1m8VT05y0rpVv1l0akFa_2HxtGkU6O54JayVceKY0TC8MTlp_xe7f2WgfwDZP5nAeVzmeeSt2H/pub?start=false&loop=false&delayms=3000">slide</a>
 
