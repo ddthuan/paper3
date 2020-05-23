@@ -1,5 +1,7 @@
 # paper:
 <h2>Build the noise, shift, deformation stable filter group based on the reverse engineering with scattering transforms</h2>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vQx2u1m8VT05y0rpVv1l0akFa_2HxtGkU6O54JayVceKY0TC8MTlp_xe7f2WgfwDZP5nAeVzmeeSt2H/pub?start=false&loop=false&delayms=3000"><h2>slide</h2></a>
+
 <br>
 <br>
 <h2>Regular CNN Model and Complex Modulus CNN Model </h2>
@@ -9,7 +11,6 @@
 <img src = "https://github.com/ddthuan/paper3/blob/master/image/results/kernelSize.png" /></a><br>
 <br>
 
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vQx2u1m8VT05y0rpVv1l0akFa_2HxtGkU6O54JayVceKY0TC8MTlp_xe7f2WgfwDZP5nAeVzmeeSt2H/pub?start=false&loop=false&delayms=3000">slide</a>
 
 <h2>Random Dataset (Order 1)</h2>
 <a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order1_random_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/random_phi.png" /></a></br>
