@@ -1,6 +1,13 @@
 # paper:
 <h2>Build the noise, shift, deformation stable filter group based on the reverse engineering with scattering transforms</h2>
+<br>
+<br>
+<h2>Regular CNN Model and Complex Modulus CNN Model </h2>
+<img src="https://github.com/ddthuan/paper3/blob/master/image/results/vsModel.png" /></a><br>
 
+<h2>Size of Filter</h2>
+<img src = "https://github.com/ddthuan/paper3/blob/master/image/results/kernelSize.png" /></a><br>
+<br>
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQx2u1m8VT05y0rpVv1l0akFa_2HxtGkU6O54JayVceKY0TC8MTlp_xe7f2WgfwDZP5nAeVzmeeSt2H/pub?start=false&loop=false&delayms=3000">slide</a>
 
@@ -28,3 +35,10 @@
 <a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order2_imagenet_nonesmooth_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_phi.png" /></a></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_psi_real.png" /></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/order2/imagenetNone_psi_imag.png" /></br>
+
+
+<h2>Measure Stability of Noise, Shift, Deformation</h2>
+<img src="https://github.com/ddthuan/paper3/blob/master/image/results/stability.png" /></br>
+
+<h2>Speed</h2>
+<img src = "https://github.com/ddthuan/paper3/blob/master/image/results/speed.png" /><br>
