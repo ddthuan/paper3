@@ -7,6 +7,8 @@
 <h1>1. Motivation</h1>
 <img src = "https://github.com/ddthuan/paper3/blob/master/image/results/motivation.png" /><br><br>
 
+<img src="https://github.com/ddthuan/paper3/blob/master/image/results/solution.png" /><br>
+
 <h1>2. Method</h1>
 <br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/propose_diagram.png" /><br><br>
