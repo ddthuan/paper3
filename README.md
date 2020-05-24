@@ -25,9 +25,9 @@
 
 <h2>The filter group is stable to noise, shift, deformation of signal</h2><br>
 <h2>Random Dataset (Order 1), size [:,1,512,128]</h2>
-<img src="https://github.com/ddthuan/paper3/blob/master/image/random_phi.png" /><span> Phi</span></br>
-<img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_real.png" />Real Psi </span></br>
-<img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_imag.png" />Imaginary Psi</span></br>
+<img src="https://github.com/ddthuan/paper3/blob/master/image/random_phi.png" /></br>
+<img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_real.png" /><span>Real Psi </span></br>
+<img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_imag.png" /><span>Imaginary Psi</span></br>
 
 <h2>CIFAR10 Dataset (Order 1), size [:,1,32,32]</h2>
 <a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order1_cifar10_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/cifar_phi.png" /></a></br>
