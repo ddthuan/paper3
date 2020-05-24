@@ -9,6 +9,7 @@
 <h2>Complex Modulus CNN architecture</h2>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/propose_model.png" /><br><br>
 
+<h2 style="color:green">Results</h2><br>
 <h2>Regular CNN Model and Complex Modulus CNN Model </h2>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/vsModel.png" /></a><br>
 
