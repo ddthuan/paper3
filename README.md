@@ -23,7 +23,7 @@
 <img src = "https://github.com/ddthuan/paper3/blob/master/image/results/kernelSize.png" /></a><br>
 <br>
 
-
+<h2>The filter group is stable to noise, shift, deformation of signal</h2><br>
 <h2>Random Dataset (Order 1)</h2>
 <a href="https://github.com/ddthuan/paper3/blob/master/test/csv/order1_random_phi.csv"><img src="https://github.com/ddthuan/paper3/blob/master/image/random_phi.png" /></a></br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_real.png" /></br>
