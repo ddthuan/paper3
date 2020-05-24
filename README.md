@@ -4,10 +4,10 @@
 <br>
 <br>
 
-<h1>Motivation</h1>
+<h1>1. Motivation</h1>
 <img src = "https://github.com/ddthuan/paper3/blob/master/image/results/motivation.png" /><br><br>
 
-<h1>Method</h1>
+<h1>2. Method</h1>
 <br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/propose_diagram.png" /><br><br>
 
@@ -15,7 +15,7 @@
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/propose_model.png" /><br><br>
 
 
-<h1 style="color:green">Results</h1><br>
+<h1 style="color:green">3. Results</h1><br>
 <h2>Regular CNN Model and Complex Modulus CNN Model </h2>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/vsModel.png" /></a><br>
 
