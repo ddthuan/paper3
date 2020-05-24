@@ -4,6 +4,9 @@
 <br>
 <br>
 
+<h1>Motivation</h1>
+<img src = "https://github.com/ddthuan/paper3/blob/master/image/results/motivation.png" /><br>
+
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/propose_diagram.png" /><br><br>
 
 <h2>Complex Modulus CNN architecture</h2>
