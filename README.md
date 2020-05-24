@@ -25,8 +25,11 @@
 
 <h2>The filter group is stable to noise, shift, deformation of signal</h2><br>
 <h2>Random Dataset (Order 1), size [:,1,512,128]</h2>
+<h3>Phi</h3>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/random_phi.png" /></br>
+<h3>Psi: real part</h3>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_real.png" /></br>
+<h3>Psi: imaginary part</h3>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/random_psi_imag.png" /></br>
 
 <h2>CIFAR10 Dataset (Order 1), size [:,1,32,32]</h2>
