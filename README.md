@@ -6,7 +6,7 @@
 
 <h1>1. Motivation</h1>
 <img src = "https://github.com/ddthuan/paper3/blob/master/image/results/motivation.png" /><br><br>
-
+<img src="https://github.com/ddthuan/paper3/blob/master/image/results/abstract.png" /><br>
 <img src="https://github.com/ddthuan/paper3/blob/master/image/results/solution.png" /><br>
 
 <h1>2. Method</h1>
