@@ -1,6 +1,6 @@
 <h1>Paper:</h1>
 <h2>Build the noise, shift, deformation stable filter group based on the reverse engineering with scattering transforms</h2>
-<h2><a href="https://docs.google.com/presentation/d/e/2PACX-1vQx2u1m8VT05y0rpVv1l0akFa_2HxtGkU6O54JayVceKY0TC8MTlp_xe7f2WgfwDZP5nAeVzmeeSt2H/pub?start=false&loop=false&delayms=3000">slide</a></h2>
+<h2><a href="https://docs.google.com/presentation/d/e/2PACX-1vQx2u1m8VT05y0rpVv1l0akFa_2HxtGkU6O54JayVceKY0TC8MTlp_xe7f2WgfwDZP5nAeVzmeeSt2H/pub?start=false&loop=false&delayms=3000">slide</a> ||<a href="https://docs.google.com/presentation/d/e/2PACX-1vT5NaPOGIZ_2xyDQmjfnseBw8In9MRuJPlStUFLogKXOou2EWQEdpj-zT9O3HqOwlL6OCDIJDeII3g-/pub?start=false&loop=false&delayms=3000">rcnn</a></h2>
 <br>
 <br>
 
